@@ -1,0 +1,1 @@
+cmd_/media/Network/SocialNode/android/a13/android4.1/device/allwinner/common-sun5i/cedarx/built-in.o :=  rm -f /media/Network/SocialNode/android/a13/android4.1/device/allwinner/common-sun5i/cedarx/built-in.o; arm-eabi-ar rcsD /media/Network/SocialNode/android/a13/android4.1/device/allwinner/common-sun5i/cedarx/built-in.o
